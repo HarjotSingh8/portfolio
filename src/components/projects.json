@@ -1,0 +1,8 @@
+[
+  {
+    "name": "Flappy Bird",
+    "path": "/flappyBird",
+    "img": "./images/memoji.png"
+  },
+  { "name": "Neuro Evolution Demonstration", "path": "/neuroEvolutionDemo" }
+]
