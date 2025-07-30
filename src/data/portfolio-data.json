@@ -1,0 +1,220 @@
+{
+  "personal": {
+    "name": "Harjot Singh",
+    "title": "Software Developer",
+    "email": "harjot.singh@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "linkedin": "https://linkedin.com/in/harjotsingh",
+    "github": "https://github.com/HarjotSingh8",
+    "website": "https://harjotsingh.dev",
+    "summary": "Passionate software developer with expertise in web development, machine learning, and creating innovative solutions. Experienced in React, JavaScript, Python, and various modern technologies.",
+    "profileImage": "./images/memoji.png"
+  },
+  "skills": {
+    "programming": [
+      "JavaScript",
+      "Python",
+      "Java",
+      "TypeScript",
+      "C++",
+      "SQL"
+    ],
+    "frontend": [
+      "React",
+      "HTML5",
+      "CSS3",
+      "Bootstrap",
+      "Material-UI",
+      "React Router"
+    ],
+    "backend": [
+      "Node.js",
+      "Express.js",
+      "Django",
+      "Flask",
+      "REST APIs",
+      "GraphQL"
+    ],
+    "database": [
+      "MongoDB",
+      "PostgreSQL",
+      "MySQL",
+      "Firebase"
+    ],
+    "tools": [
+      "Git",
+      "Docker",
+      "AWS",
+      "VS Code",
+      "Webpack",
+      "npm/yarn"
+    ],
+    "machineLearning": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Pandas",
+      "NumPy",
+      "Neural Networks"
+    ]
+  },
+  "education": [
+    {
+      "id": 1,
+      "institution": "University of California, Berkeley",
+      "degree": "Bachelor of Science in Computer Science",
+      "startDate": "2018",
+      "endDate": "2022",
+      "gpa": "3.8/4.0",
+      "relevant_courses": [
+        "Data Structures and Algorithms",
+        "Machine Learning",
+        "Web Development",
+        "Database Systems",
+        "Software Engineering"
+      ],
+      "description": "Focused on computer science fundamentals with emphasis on software engineering and machine learning applications."
+    },
+    {
+      "id": 2,
+      "institution": "Online Coursework",
+      "degree": "Various Certifications",
+      "startDate": "2020",
+      "endDate": "Present",
+      "certifications": [
+        "AWS Certified Developer",
+        "React Developer Certification",
+        "Machine Learning Specialization"
+      ],
+      "description": "Continuous learning through online platforms including Coursera, Udemy, and AWS Training."
+    }
+  ],
+  "experience": [
+    {
+      "id": 1,
+      "company": "Tech Solutions Inc.",
+      "position": "Full Stack Developer",
+      "startDate": "2022",
+      "endDate": "Present",
+      "location": "San Francisco, CA",
+      "description": "Developing and maintaining web applications using React, Node.js, and MongoDB. Led implementation of new features that improved user engagement by 40%.",
+      "achievements": [
+        "Built responsive web applications serving 10,000+ users",
+        "Optimized database queries reducing load times by 60%",
+        "Mentored 2 junior developers",
+        "Implemented CI/CD pipelines using GitHub Actions"
+      ],
+      "technologies": ["React", "Node.js", "MongoDB", "AWS", "Docker"]
+    },
+    {
+      "id": 2,
+      "company": "StartupXYZ",
+      "position": "Software Engineering Intern",
+      "startDate": "2021",
+      "endDate": "2021",
+      "location": "Remote",
+      "description": "Worked on machine learning projects and web development during summer internship. Contributed to product features used by thousands of users.",
+      "achievements": [
+        "Developed ML model for user recommendation system",
+        "Created responsive frontend components",
+        "Participated in agile development process",
+        "Presented findings to executive team"
+      ],
+      "technologies": ["Python", "TensorFlow", "React", "PostgreSQL"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "Flappy Bird AI",
+      "path": "/flappyBird",
+      "img": "./images/memoji.png",
+      "description": "An AI-powered version of the classic Flappy Bird game using neural networks and genetic algorithms.",
+      "technologies": ["JavaScript", "HTML5 Canvas", "Neural Networks", "Genetic Algorithm"],
+      "features": [
+        "Real-time AI learning",
+        "Genetic algorithm optimization", 
+        "Interactive visualization",
+        "Performance metrics tracking"
+      ],
+      "github": "https://github.com/HarjotSingh8/flappy-bird-ai",
+      "demo": "https://harjotsingh8.github.io/flappy-bird-ai",
+      "status": "Completed",
+      "startDate": "2023",
+      "endDate": "2023"
+    },
+    {
+      "id": 2,
+      "name": "Neuro Evolution Demonstration",
+      "path": "/neuroEvolutionDemo", 
+      "img": "./images/memoji.png",
+      "description": "Interactive demonstration of neural network evolution and learning algorithms.",
+      "technologies": ["JavaScript", "TensorFlow.js", "D3.js", "CSS3"],
+      "features": [
+        "Visual neural network representation",
+        "Real-time evolution tracking",
+        "Interactive parameter controls",
+        "Performance analytics"
+      ],
+      "github": "https://github.com/HarjotSingh8/neuro-evolution",
+      "demo": "https://harjotsingh8.github.io/neuro-evolution",
+      "status": "In Progress",
+      "startDate": "2023",
+      "endDate": "Present"
+    },
+    {
+      "id": 3,
+      "name": "Portfolio Website",
+      "path": "/portfolio",
+      "img": "./images/memoji.png", 
+      "description": "Personal portfolio website built with React and dynamic JSON data management.",
+      "technologies": ["React", "React Router", "Bootstrap", "JSON"],
+      "features": [
+        "Responsive design",
+        "Dynamic content loading",
+        "Modern UI/UX",
+        "Fast performance"
+      ],
+      "github": "https://github.com/HarjotSingh8/portfolio",
+      "demo": "https://harjotsingh8.github.io/portfolio",
+      "status": "Completed",
+      "startDate": "2023",
+      "endDate": "2023"
+    }
+  ],
+  "awards": [
+    {
+      "id": 1,
+      "title": "Best Innovation Award",
+      "organization": "University of California, Berkeley",
+      "date": "2022",
+      "description": "Awarded for outstanding innovation in machine learning project for academic excellence.",
+      "category": "Academic"
+    },
+    {
+      "id": 2,
+      "title": "Hackathon Winner", 
+      "organization": "TechCrunch Disrupt Hackathon",
+      "date": "2023",
+      "description": "First place winner for developing an AI-powered solution for environmental monitoring.",
+      "category": "Competition"
+    },
+    {
+      "id": 3,
+      "title": "Dean's List",
+      "organization": "University of California, Berkeley",
+      "date": "2020-2022",
+      "description": "Maintained high academic standing with GPA above 3.5 for multiple semesters.",
+      "category": "Academic"
+    },
+    {
+      "id": 4,
+      "title": "AWS Certified Developer",
+      "organization": "Amazon Web Services",
+      "date": "2023", 
+      "description": "Professional certification demonstrating expertise in developing applications on AWS platform.",
+      "category": "Certification"
+    }
+  ]
+}
